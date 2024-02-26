@@ -30,3 +30,10 @@ This project is a simple calculator web application that allows users to perform
 
 - Icons: [Ionicons](https://ionicons.com/)
 - Fonts: [Google Fonts](https://fonts.google.com/)
+
+**Light Mode:**
+![download](https://github.com/RahulJahannathan/Calculator-Webpage/assets/148075081/b4dc2c0c-885a-415b-8ef0-33ed23435c91)
+
+**Dark Mode:**
+![download](https://github.com/RahulJahannathan/Calculator-Webpage/assets/148075081/60637148-c474-416d-a7b3-31e1832d5147)
+
